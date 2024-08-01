@@ -8,6 +8,8 @@
  * @since Twenty Twenty-Four 1.0
  */
 
+include('posts-shortcode.php');
+
 /**
  * Register block styles.
  */
